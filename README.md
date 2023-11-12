@@ -17,3 +17,5 @@ kubectl apply -f deploy.yaml
 kubectl get service microservicetest --watch
 
 az group delete -n MicroserviceTestResources
+
+https://dotnet.microsoft.com/en-us/learn/aspnet/microservice-tutorial/create
